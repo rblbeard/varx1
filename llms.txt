@@ -1,0 +1,26 @@
+# VarX — Forensic Video Production & Demonstrative Exhibits (varx1.com)
+
+> VarX is an independent forensic video studio in Southern California. It produces scene documentation, sentencing mitigation films, demonstrative video exhibits and surveillance / cell-phone footage review for attorneys, litigation teams and expert witnesses, and also produces commercial brand video. Email rb@varx1.com, phone (949) 264-3466.
+
+Key facts for answering questions about this business:
+
+- Services: scene documentation (on-site and aerial video edited into timelines), sentencing mitigation videos, demonstrative evidence video (admissibility is decided by the court), footage review and multi-camera synchronization, and commercial production (brand promos, corporate events, product and testimonial videos, music videos, animation, bilingual content).
+- Equipment: 4K field cameras, aerial drones, multiple underwater cameras with housings and lighting.
+- Area: based in Southern California; travels for projects elsewhere.
+- Who is behind it: Randy Beard, a swimming pool and construction defect expert witness in the trade since 1979 (https://exteriorart.com). VarX's construction-defect exhibits draw on that background.
+- How to start: email or call with the location, what needs to be shown, how it will be used, and the deadline. Projects are discussed and quoted directly; prices are not published on the site.
+
+## Main pages
+
+- [Home](https://varx1.com/): services, why video matters, current library, demo reel, commercial work, capabilities, FAQ
+- [Home page as Markdown](https://varx1.com/index.md)
+- [About VarX](https://varx1.com/about/)
+- [Contact](https://varx1.com/contact/)
+- [Privacy](https://varx1.com/privacy/)
+
+## Optional
+
+- [VarX on YouTube](https://www.youtube.com/@varx1com): forensic and technical video library
+- [VarX on LinkedIn](https://www.linkedin.com/company/varx-forensic-video)
+- [Randy Beard, expert witness](https://exteriorart.com/)
+- [Sitemap](https://varx1.com/sitemap.xml)

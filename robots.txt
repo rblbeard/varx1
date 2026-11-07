@@ -1,0 +1,6 @@
+# AI assistants and search engines are welcome.
+# Site guide for AI assistants: https://varx1.com/llms.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://varx1.com/sitemap.xml

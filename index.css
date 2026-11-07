@@ -1309,3 +1309,18 @@ a {
 		gap: 40px;
 	}
 }
+
+/* --- AI-readiness pass 2026-11-07: tag changes keep the same look --- */
+.benefit-detail h3 { font-size: 1rem; margin-bottom: 8px; letter-spacing: 0.05em; }
+.capabilities-card h3 { font-size: 0.95rem; color: var(--teal-color); margin-bottom: 14px; letter-spacing: 0.05em; }
+.address-details .address-heading { font-size: 0.75rem; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 4px; }
+.footer-links-group .footer-heading, .footer-info .footer-heading { font-size: 0.75rem; letter-spacing: 0.15em; color: var(--text-muted-light); margin-bottom: 24px; }
+.faq-section-vx { padding: 90px 0; background: #000; border-top: 1px solid rgba(255,255,255,0.08); }
+.faq-list-vx { max-width: 860px; margin-top: 32px; }
+.faq-item-vx { border-bottom: 1px solid rgba(255,255,255,0.12); padding: 18px 0; }
+.faq-item-vx summary { cursor: pointer; list-style: none; }
+.faq-item-vx summary::-webkit-details-marker { display: none; }
+.faq-item-vx summary::after { content: "+"; float: right; color: var(--teal-color); font-size: 1.25rem; line-height: 1; }
+.faq-item-vx[open] summary::after { content: "\2212"; }
+.faq-item-vx .faq-q { display: inline; font-size: 0.95rem; letter-spacing: 0.06em; color: #fff; }
+.faq-item-vx p { margin-top: 12px; max-width: 75ch; }
